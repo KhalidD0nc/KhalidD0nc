@@ -5,8 +5,7 @@
 
 - 📫 How to reach me **khalidald4z@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+
 </p>
 
 
