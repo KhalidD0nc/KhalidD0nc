@@ -5,8 +5,6 @@ I'm currently diving deep into the world of iOS development, exploring Swift and
 
 - 🔭 I’m currently working on **small collaborative projects** and open to joining forces on **iOS applications**.
 
-- 🌱 I’m currently learning **PHP & Laravel** to broaden my backend skills and complement my mobile development expertise.
-
 - 👯 I’m looking to collaborate on **small to medium-sized projects** where I can contribute while enhancing my skills.
 
 - 💬 Ask me about **Swift, SwiftUI,** and starting out in **iOS development**.
