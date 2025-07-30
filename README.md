@@ -4,7 +4,6 @@
 I'm a Computer Science student and an iOS developer with a deep passion for **building real products**.  
 Swift and SwiftUI are my tools of choice for creating polished iOS apps — but what drives me is the bigger picture: solving problems, designing intuitive experiences, and shipping meaningful products.
 
-- 🚀 Currently building **VNOMU**, a virtual investing app for the U.S., Saudi, and crypto markets.
 - 🧠 Exploring **Python** and backend development to expand my product-building capabilities.
 - 💬 Always up for a chat about iOS, product strategy, or turning ideas into real things.
 - 📫 Reach me at **khalidald4z@gmail.com**  
