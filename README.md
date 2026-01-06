@@ -25,5 +25,5 @@ iOS engineer with Swift and SwiftUI, also building AI agents, RAG systems, and d
 
 ---
 
-📫 **khalidald0nc@gmail.com**  
+📫 **khalidald4z@gmail.com**  
 🔗 [LinkedIn](https://www.linkedin.com/in/khalid-aldawish-037b7723a)
