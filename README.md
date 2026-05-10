@@ -12,7 +12,7 @@ My work focuses on multi-agent platforms, RAG pipelines, and cost-aware data arc
 🚀 **[Flowro AI](https://flowro.app)** — An open-source AI workspace for turning product ideas into structured plans, apps, and slides. Built to help developers and AI agents move from prompt to product faster.  
 Live: [flowro.app](https://flowro.app) · [git.flowro.app](https://git.flowro.app)
 
-🏟️ **Football Intelligence Platform** — A multi-agent tactical analysis platform for football coaches, combining video analysis with Gemini VLM, opponent scouting with RAG, and natural language queries over team data. Orchestrated with LangGraph.
+🏟️ **Football Intelligence Platform** — A multi-agent tactical analysis platform for football coaches, combining video analysis with multimodal LLM, opponent scouting with RAG, and natural language queries over team data. Orchestrated with LangGraph.
 
 ⚙️ **Football Data Pipeline** — A cost-optimized football data engineering pipeline with rate-limited ingestion, smart caching, and a lakehouse-style flow across S3, Snowflake, PostgreSQL, and dbt transformations.
 
