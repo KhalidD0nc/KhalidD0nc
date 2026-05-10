@@ -1,34 +1,35 @@
 <h1 align="center">Hi 👋, I'm Khalid</h1>
 <h3 align="center">AI & Data Engineer | Building Intelligent Systems That Ship</h3>
 
-I build AI systems that work and ship them to real users.
+I build AI and data systems that move from idea to production.
 
-Focused on multi-agent platforms, RAG pipelines, and cost-aware data architectures. I care about clean engineering, but shipping matters more.
+My work focuses on multi-agent platforms, RAG pipelines, and cost-aware data architectures. I care about clean engineering, but I care even more about shipping useful products to real users.
 
 ---
 
 ### What I'm Building
 
-🏟️ **Football Intelligence Platform** — Multi-agent system for tactical analysis: video analysis via Gemini VLM, opponent scouting via RAG, and natural language queries over team data. Orchestrated with LangGraph.
+🚀 **[Flowro AI](https://flowro.app)** — An open-source AI workspace for turning product ideas into structured plans, apps, and slides. Built to help developers and AI agents move from prompt to product faster.  
+Live: [flowro.app](https://flowro.app) · [git.flowro.app](https://git.flowro.app)
 
-⚙️ **Football Data Pipeline** — Rate-limited ingestion pipeline (7,500 req/day) with S3 → Snowflake → PostgreSQL architecture and dbt transformations. Cost-optimized with smart caching.
+🏟️ **Football Intelligence Platform** — A multi-agent tactical analysis platform for football coaches, combining video analysis with Gemini VLM, opponent scouting with RAG, and natural language queries over team data. Orchestrated with LangGraph.
 
-🚀 **[Flowro AI](https://flowro.app)** — Production platform that transforms product ideas into structured blueprints for developers and AI agents. Two live apps at [flowro.app](https://flowro.app) and [git.flowro.app](https://git.flowro.app).
+⚙️ **Football Data Pipeline** — A cost-optimized football data engineering pipeline with rate-limited ingestion, smart caching, and a lakehouse-style flow across S3, Snowflake, PostgreSQL, and dbt transformations.
 
-⚖️ **Nidham AI** — End-to-end RAG pipeline for Saudi Labor Law Q&A with OCR ingestion (AWS Textract), semantic chunking, and custom query routing.
+⚖️ **Nidham AI** — An end-to-end Arabic RAG pipeline for Saudi Labor Law Q&A, using AWS Textract for OCR ingestion, semantic chunking, custom query routing, and retrieval-grounded answers.
 
-🛒 **[SallaAI Agent](https://github.com/KhalidD0nc/SallaAI_Agent)** — Multi-agent system for automated product discovery and price comparison on the Saudi market.
+🛒 **[SallaAI Agent](https://github.com/KhalidD0nc/SallaAI_Agent)** — A multi-agent system for automated product discovery and price comparison in the Saudi market.
 
 ---
 
 ### How I Work
 
-- **Data Engineering:** Python, dbt, S3, Snowflake, PostgreSQL, ETL/ELT Pipelines
-- **AI & Agents:** LangChain, LangGraph, RAG, ChromaDB, OpenAI, Gemini VLM
-- **Infrastructure:** Docker, AWS, Firebase, Vercel, Git
-- **Ship fast:** I use AI-assisted development to move from idea to production quickly
+- **AI Engineering:** Multi-agent systems, RAG, LangChain, LangGraph, LLMs
+- **Data Engineering:**  ETL/ELT pipelines, Python, SQL, dbt, S3, Snowflake, PostgreSQL, 
+- **Infrastructure:** Docker, AWS, Git
+- **Product Mindset:** I use AI Agentic development to move from idea to working product quickly
 
 ---
 
-📫 **aldaiwshkhalid@gmail.com**
-🔗 [LinkedIn](https://www.linkedin.com/in/khalid-aldawish)
+📫 **Email:** aldaiwshkhalid@gmail.com  
+🔗 **LinkedIn:** [khalid-aldawish](https://www.linkedin.com/in/khalid-aldawish)
