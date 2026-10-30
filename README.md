@@ -10,9 +10,9 @@ I'm especially interested in what happens under the hood: moving and modeling da
 
 ## A little of what I've built
 
-### Tawkeed Workspace
+### <a href="https://tawkeed.ai"><img src="https://tawkeed.ai/icon.svg" alt="Tawkeed logo" width="26" /></a> &nbsp; [Tawkeed](https://tawkeed.ai)
 
-AI products, backend orchestration, and the engineering that keeps workloads moving.
+I contributed to parts of [Agent](https://agent.tawkeed.ai) and [Workspace](https://workspace.tawkeed.ai) — building backend orchestration and the engineering that keeps AI workloads moving.
 
 I built workflows for asynchronous processing, job tracking, retries, and validation, along with observability for LLM usage and performance. Improving execution and provider validation reduced LLM cost and processing time by **~66%**.
 
@@ -20,19 +20,13 @@ I built workflows for asynchronous processing, job tracking, retries, and valida
 
 ### Government AI, running on-premise
 
-Through Tawkeed, I delivered a local AI solution — from requirements and architecture to deployment in a restricted government environment.
+Through [Tawkeed](https://tawkeed.ai), I delivered a local AI solution — from requirements and architecture to deployment in a restricted government environment.
 
 It brings together local model serving, document ingestion and retrieval, embeddings, and an agent that works with files and structured data. One of my favorite parts was making inference work reliably under load:
 
-```mermaid
-flowchart LR
-    A[Incoming requests] --> B{Inference slots}
-    B -->|Slot available| C[Run inference]
-    B -->|All slots busy| D[Overflow queue]
-    D --> E[Retry worker]
-    E --> B
-    C --> F[Results]
-```
+![Conceptual illustration of the on-premise inference workflow: requests, job store, pending queue, agent, four inference slots, and retry worker](assets/on-prem-inference.png)
+
+<sub>A simplified view of the job and inference flow.</sub>
 
 **4 parallel slots** · **21 → 37 tokens/s** · **~30% → 0% lost requests** in measured workloads
 
