@@ -42,7 +42,7 @@ I'm interested in **ETL/ELT, data warehouses, lakehouses, and data quality** —
 
 **Languages & applications**
 
-<img src="https://skillicons.dev/icons?i=python,typescript,swift,fastapi,postgres,docker" alt="Python, TypeScript, Swift, FastAPI, PostgreSQL, Docker" /> &nbsp; <img src="https://msicons.com/icons/databases/10130-icon-service-SQL-Database.svg" alt="SQL" title="SQL" height="48" /> &nbsp; <img src="https://cdn.simpleicons.org/langgraph/1C9C8A" alt="LangGraph" title="LangGraph" height="38" /> &nbsp; LangGraph
+<img src="https://skillicons.dev/icons?i=python,typescript,swift,fastapi,postgres,docker" alt="Python, TypeScript, Swift, FastAPI, PostgreSQL, Docker" /> &nbsp; <img src="https://msicons.com/icons/databases/10130-icon-service-SQL-Database.svg" alt="SQL" title="SQL" width="64" height="64" /> &nbsp; <img src="https://cdn.simpleicons.org/langgraph/1C9C8A" alt="LangGraph" title="LangGraph" height="38" /> &nbsp; LangGraph
 
 **Data**
 
